@@ -1,4 +1,4 @@
-# urban-logistics-benchmark-instance
+# urban-logistics-benchmark-dataset
 ## large-scale group: 
 Sets A, B, E, and M, includes instances with 50 to 101 customers. 
 ## small-scale group: 
